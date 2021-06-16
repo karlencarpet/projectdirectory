@@ -1,4 +1,7 @@
 #This is the first file
  The spartans will win
  We will work together
- To Victory 
+ To Victory
+ We will master Github
+ Today is the day
+ Carpe diem! 
